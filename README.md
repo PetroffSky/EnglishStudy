@@ -13,7 +13,7 @@ EnglishStudy - это мой проект, по обучению словам а
 
 Требования:
 - установленный Python с путём в PATH;
-- установленный Selenium Chromedriver по пути: C:\chromedriver;
+- установленный Selenium Chromedriver по пути: C:\chromedriver, в PATH добавлен этот путь;
 - установленные модули Python:
   - selenium;
   - qrcode;
